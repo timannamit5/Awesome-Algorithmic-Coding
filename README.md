@@ -3,3 +3,4 @@ A Curated List of Algorithms, with implementations in C++.
 
 ## Algorithms Implemented till now
 ### Elementary
+- Sieve of Eratosthenes
