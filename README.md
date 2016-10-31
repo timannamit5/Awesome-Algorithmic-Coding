@@ -6,3 +6,4 @@ A Curated List of Algorithms, with implementations in C++.
 - Sieve of Eratosthenes
 - Linear Search
 - Binary Search
+- Bucket Sort
