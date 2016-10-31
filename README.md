@@ -13,4 +13,4 @@ A Curated List of Algorithms, with implementations in C++.
 ### Intermediate
 - Radix Sort
 - Kadane Algorithm
-- Topological sort using kosaraju/dfs
+- Topological Sort with DFS
