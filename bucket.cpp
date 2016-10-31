@@ -1,3 +1,4 @@
+//code for bucket 
 #include <iostream>
 using namespace std;
 void counti_sort(int input[], int n)
