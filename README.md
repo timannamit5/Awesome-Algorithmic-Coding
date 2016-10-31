@@ -5,3 +5,4 @@ A Curated List of Algorithms, with implementations in C++.
 ### Elementary
 - Sieve of Eratosthenes
 - Linear Search
+- Binary Search
