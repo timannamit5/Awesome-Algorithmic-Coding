@@ -17,3 +17,5 @@ int main()
 
 	return 0;
 }
+
+// Output is GCD of two Given Numbers
