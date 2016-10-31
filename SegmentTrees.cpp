@@ -1,4 +1,4 @@
-//saru95
+//Segment Tree
 #include <bits/stdc++.h>
  
 #define all(a) (a).begin(),(a).end()
