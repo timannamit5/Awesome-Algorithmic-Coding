@@ -9,6 +9,7 @@ A Curated List of Algorithms, with implementations in C++.
 - Bucket Sort
 - Fermat's Little Theorem
 - AKS Primality Test
+- Breadth First Search
 
 ### Intermediate
 - Radix Sort
