@@ -1,3 +1,4 @@
+//Code for merge sort
 #include <iostream>
 using namespace std;
 int *tmp;
