@@ -8,6 +8,8 @@ A Curated List of Algorithms, with implementations in C++.
 - Binary Search
 - Bucket Sort
 - Fermat's Little Theorem
+- AKS Primality Test
 
 ### Intermediate
 - Radix Sort
+- Kadane Algorithm
